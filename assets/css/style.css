@@ -1642,3 +1642,30 @@ section {
 .cus-container {
   max-width: 100% !important;
 }
+.vdo-thumb-cont {
+  max-height: 200px;
+}
+.vdo-thumb {
+  top: -35px;
+  position: relative;
+}
+.play-button {
+  height: 65%;
+  width: 65%;
+}
+
+.portfolio .portfolio-item .port-info {
+  position: absolute;
+  /* left: 10%; */
+  /* bottom: 0; */
+  z-index: 3;
+  top: 20%;
+  /* right: 15px; */
+  transition: all ease-in-out 0.3s;
+  /* background: rgba(0, 0, 0, 0.5); */
+  padding: 10px 15px;
+  left: 34%;
+}
+.portfolio-item {
+  position: relative;
+}
