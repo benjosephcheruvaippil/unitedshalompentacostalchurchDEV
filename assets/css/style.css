@@ -794,7 +794,7 @@ section {
 
 .services .icon {
   position: absolute;
-  left: 1px;
+  left: 8px;
   top: calc(50% - 30px);
 }
 
@@ -808,7 +808,7 @@ section {
   margin-left: 40px;
   font-weight: 700;
   margin-bottom: 15px;
-  font-size: 18px;
+  font-size: 22px;
 }
 
 .services .title a {
@@ -822,7 +822,7 @@ section {
 
 .services .description {
   font-size: 14px;
-  margin-left: 40px;
+  margin-left: 60px;
   line-height: 24px;
   margin-bottom: 0;
 }
@@ -1668,4 +1668,8 @@ section {
 }
 .portfolio-item {
   position: relative;
+}
+.header-logo {
+  height: 49px;
+  margin-bottom: 7px;
 }
