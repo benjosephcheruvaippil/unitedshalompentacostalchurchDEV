@@ -111,7 +111,7 @@ h6 {
 #header .logo img {
   padding: 0;
   margin: 0;
-  max-height: 40px;
+  max-height: 56px;
 }
 
 /*--------------------------------------------------------------
@@ -1294,7 +1294,7 @@ section {
   padding: 60px 0;
 }
 
-#team1{
+#team1 {
   background-color: #100f0f;
 }
 
@@ -1639,7 +1639,6 @@ section {
 .cards-main {
   height: 100%;
 }
- .cus-container{
-   max-width: 100% !important;
- }
-
+.cus-container {
+  max-width: 100% !important;
+}
