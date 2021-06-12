@@ -162,6 +162,10 @@ h6 {
   .carousel-container {
     height: 278px !important;
   }
+
+  .mobile-view{
+    height: 300px;
+  }
 }
 
 @media only screen and (max-width: 500px) {
