@@ -794,7 +794,7 @@ section {
 
 .services .icon {
   position: absolute;
-  left: 1px;
+  left: 8px;
   top: calc(50% - 30px);
 }
 
@@ -808,7 +808,7 @@ section {
   margin-left: 40px;
   font-weight: 700;
   margin-bottom: 15px;
-  font-size: 18px;
+  font-size: 22px;
 }
 
 .services .title a {
@@ -822,7 +822,7 @@ section {
 
 .services .description {
   font-size: 14px;
-  margin-left: 40px;
+  margin-left: 60px;
   line-height: 24px;
   margin-bottom: 0;
 }
@@ -1641,4 +1641,35 @@ section {
 }
 .cus-container {
   max-width: 100% !important;
+}
+.vdo-thumb-cont {
+  max-height: 200px;
+}
+.vdo-thumb {
+  top: -35px;
+  position: relative;
+}
+.play-button {
+  height: 65%;
+  width: 65%;
+}
+
+.portfolio .portfolio-item .port-info {
+  position: absolute;
+  /* left: 10%; */
+  /* bottom: 0; */
+  z-index: 3;
+  top: 20%;
+  /* right: 15px; */
+  transition: all ease-in-out 0.3s;
+  /* background: rgba(0, 0, 0, 0.5); */
+  padding: 10px 15px;
+  left: 34%;
+}
+.portfolio-item {
+  position: relative;
+}
+.header-logo {
+  height: 49px;
+  margin-bottom: 7px;
 }
