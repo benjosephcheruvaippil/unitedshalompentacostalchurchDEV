@@ -358,7 +358,8 @@ background-image: url(https://undsgn.com/wp-content/uploads/2018/04/ltotbngnzzu.
   flex-direction: column;
   text-align: center;
   position: relative;
-  height: 70vh;
+  /* height: 70vh; */
+  height: 95vh;
   padding-top: 60px;
 }
 
